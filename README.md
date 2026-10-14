@@ -7,3 +7,6 @@ The directory credits and links to original publishers. Third-party videos, manu
 See [Privacy](privacy.html) and [Terms & notices](terms.html). Report corrections or copyright concerns through this repository’s [issues](https://github.com/albertmontilla472-creator/hvac-smarty-pants-bas-library/issues). Avoid posting private or building-security information.
 
 Published as a static GitHub Pages website from main, repository root.
+
+
+For suspected security vulnerabilities, use [private vulnerability reporting](https://github.com/albertmontilla472-creator/hvac-smarty-pants-bas-library/security/advisories/new) and read [SECURITY.md](SECURITY.md). Do not post credentials or exploit details in public issues.
