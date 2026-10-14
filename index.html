@@ -130,8 +130,9 @@ body{color:var(--ink)}
   if(filters.time==='40'&&(r.type!=='Video'||r.minutes===null||r.minutes>40))return false;
   if(filters.time==='long'&&!(r.format==='Class recording'||(r.minutes!==null&&r.minutes>40)))return false;
   if(filters.time==='unknown'&&r.minutes!==null)return false;
-  const haystack=[r.id,r.title,r.trackName,r.tool,r.generation,r.provider,r.topic,r.focus,r.note,r.version,record.note||''].join(' ').toLowerCase();
-  return filters.query.toLowerCase().trim().split(/\s+/).filter(Boolean).every(term=>haystack.includes(term));
+  const subject=[r.id,r.title,r.trackName,r.tool,r.generation,r.topic,record.note||'',r.track==='jci'?'JCI':'',r.tool==='EC-gfxProgram'?'GFX':''].join(' ').toLowerCase();
+  const haystack=[r.id,r.title,r.trackName,shortTrack[r.track],r.tool,r.generation,r.provider,r.topic,r.focus,r.note,r.version,record.note||''].join(' ').toLowerCase();
+  return filters.query.toLowerCase().trim().split(/\s+/).filter(Boolean).every(term=>['irm','cct','gfx','jci','vav','pid'].includes(term)?new RegExp('\\b'+term+'\\b').test(subject):haystack.includes(term));
  }
  const actionText=r=>r.type==='Video'?'Watch lesson':r.format==='Playlist'?'Open playlist':r.format==='Training'?'View training':r.format==='Reference'?'Read reference':'Open collection';
  function card(r){
