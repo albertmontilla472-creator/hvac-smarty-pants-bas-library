@@ -2,7 +2,7 @@
 
 A free, independent directory of BAS videos, documentation and learning paths, covering Niagara, Honeywell Optimizer/Spyder, Johnson Controls Facility Explorer/CCT and Distech EC-gfxProgram.
 
-The directory credits and links to original publishers. Third-party videos, manuals and installers are not rehosted. Account/enrollment routes and licensed software are separately labeled. Original study worksheets are included for personal learning.
+The directory credits and links to original publishers. Third-party videos, manuals and installers are not rehosted. Only free public learning material is listed. Paid training, enrollment catalogs and partner-only references are excluded. Free lessons may demonstrate tools that require a separate practice license. The project has no advertising, affiliate links or paid placements; its purpose is learning, creator credit and community benefit. Original study worksheets are included for personal learning.
 
 See [Privacy](privacy.html) and [Terms & notices](terms.html). Report corrections or copyright concerns through this repository’s [issues](https://github.com/albertmontilla472-creator/hvac-smarty-pants-bas-library/issues). Avoid posting private or building-security information.
 
