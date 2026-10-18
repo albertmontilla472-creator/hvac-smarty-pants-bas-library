@@ -12,3 +12,5 @@ Published as a static GitHub Pages website from main, repository root.
 
 
 For suspected security vulnerabilities, use [private vulnerability reporting](https://github.com/albertmontilla472-creator/hvac-smarty-pants-bas-library/security/advisories/new) and read [SECURITY.md](SECURITY.md). Do not post credentials or exploit details in public issues.
+
+Navigation uses distinct server, Station, configuration, service and document symbols. The small Facility Explorer compass and EC-gfxProgram symbol are credited vendor identifying marks; the Honeywell H comes from its official wordmark. IRM and Spyder navigation illustrations identify subjects and are not official application icons. See Terms & notices for attribution and nonaffiliation details. All images are served locally; no external icon libraries are loaded.
