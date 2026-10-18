@@ -4,7 +4,7 @@ Please report a suspected vulnerability through [GitHub’s private vulnerabilit
 
 Describe the affected page, what you observed and minimal steps to reproduce it. Use your own test data. Please avoid disrupting the service, testing other people’s accounts, automated high-volume probing, or testing the independent publishers linked by this directory. Acknowledgment or repair times are not guaranteed.
 
-The maintained release is the version currently published at [HVAC Smarty Pants](https://albertmontilla472-creator.github.io/hvac-smarty-pants-bas-library/). Previous exported copies may lack later fixes.
+The maintained release is the version currently published at [The Controls Exchange](https://albertmontilla472-creator.github.io/hvac-smarty-pants-bas-library/). Previous exported copies may lack later fixes.
 
 This static directory has no visitor accounts, payment processing, backend, visitor-upload service or third-party runtime scripts. Optional study notes remain in the browser. Keep notes non-sensitive: browser storage is not encrypted by this app, and GitHub project sites under the same account share an origin.
 

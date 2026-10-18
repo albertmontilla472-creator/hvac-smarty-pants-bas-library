@@ -1,4 +1,4 @@
-# HVAC Smarty Pants — programming practice workbook
+# The Controls Exchange — programming practice workbook
 
 These exercises can begin on paper. Implement them when your actual controllers, firmware, tools and licenses are identified. Each platform has its own blocks, application limits and download procedure.
 

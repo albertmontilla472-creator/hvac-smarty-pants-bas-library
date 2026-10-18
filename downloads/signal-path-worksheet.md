@@ -1,4 +1,4 @@
-# HVAC Smarty Pants — signal-path and sequence worksheet
+# The Controls Exchange — signal-path and sequence worksheet
 
 Use one sheet for one piece of equipment. Start on paper; add tool screenshots and trend evidence when a lab is available.
 

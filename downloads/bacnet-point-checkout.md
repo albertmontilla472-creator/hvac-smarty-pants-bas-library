@@ -1,4 +1,4 @@
-# HVAC Smarty Pants — BACnet point-checkout worksheet
+# The Controls Exchange — BACnet point-checkout worksheet
 
 Use this with a training network or an authorized commissioning task. Begin with discovery and property inspection. A BACnet browser does not replace the vendor application tool.
 
