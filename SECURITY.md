@@ -1,6 +1,6 @@
 # Security policy
 
-Please report a suspected vulnerability through [GitHub’s private vulnerability reporting](https://github.com/albertmontilla472-creator/the-controls-exchange/security/advisories/new). Do not post exploit details, passwords, recovery codes, tokens, customer information or building-access information in public issues. Ordinary resource corrections can use the public issue page.
+Please report a suspected vulnerability through [GitHub’s private vulnerability reporting](https://github.com/albertmontilla472-creator/the-controls-exchange/security/advisories/new). Do not post exploit details, passwords, recovery codes, tokens, customer information or building-access information in public issues. If you cannot use private vulnerability reporting, email [smarty.ctrl@gmail.com](mailto:smarty.ctrl@gmail.com) as an alternative. Never email passwords, recovery codes, tokens, customer data or building-access details. Email is not a secure credential-transfer channel. Ordinary resource corrections can use the public issue page; copyright or other private concerns can use the brand email.
 
 Describe the affected page, what you observed and minimal steps to reproduce it. Use your own test data. Please avoid disrupting the service, testing other people’s accounts, automated high-volume probing, or testing the independent publishers linked by this directory. Acknowledgment or repair times are not guaranteed.
 

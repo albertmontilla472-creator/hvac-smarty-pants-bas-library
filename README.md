@@ -10,11 +10,11 @@ Training covers Niagara AX/N4/N5, Honeywell Optimizer/IRM and Classic Spyder, JC
 
 The directory credits and links to original publishers. Third-party videos, manuals and installers are not rehosted. Only free public learning material is listed. Paid training, enrollment catalogs and partner-only references are excluded. Free lessons may demonstrate tools that require a separate practice license. The project has no advertising, affiliate links or paid placements; its purpose is learning, creator credit and community benefit. Original study worksheets are included for personal learning.
 
-See [Privacy](privacy.html) and [Terms & notices](terms.html). Report corrections or copyright concerns through this repository’s [issues](https://github.com/albertmontilla472-creator/the-controls-exchange/issues). Avoid posting private or building-security information.
+See [Privacy](privacy.html) and [Terms & notices](terms.html). Email [smarty.ctrl@gmail.com](mailto:smarty.ctrl@gmail.com) for questions, resource recommendations, business inquiries, copyright or private concerns. Ordinary resource corrections can also use this repository’s [issues](https://github.com/albertmontilla472-creator/the-controls-exchange/issues). Avoid posting private or building-security information.
 
 Published as a static GitHub Pages website from main, repository root.
 
 
-For suspected security vulnerabilities, use [private vulnerability reporting](https://github.com/albertmontilla472-creator/the-controls-exchange/security/advisories/new) and read [SECURITY.md](SECURITY.md). Do not post credentials or exploit details in public issues.
+For suspected security vulnerabilities, use [private vulnerability reporting](https://github.com/albertmontilla472-creator/the-controls-exchange/security/advisories/new) and read [SECURITY.md](SECURITY.md). Email is an alternative if the private reporting form is unavailable. Do not post exploit details publicly or send credentials, customer data or building-access information through either channel.
 
 Navigation uses distinct server, Station, configuration, service and document symbols. The small Facility Explorer compass and EC-gfxProgram symbol are credited vendor identifying marks; the Honeywell H comes from its official wordmark. Niagara generation folders use the genuine circular N and AX/N4/N5 product marks from Tridium’s public illustration. IRM and Spyder navigation illustrations identify subjects and are not official application icons. See Terms & notices for attribution and nonaffiliation details. All images are served locally; no external icon libraries are loaded.
