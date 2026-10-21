@@ -4,7 +4,7 @@ Curated by **Smarty.ctrl**. Follow [Instagram](https://www.instagram.com/smarty.
 
 A free, independent directory of BAS videos, documentation and learning paths, covering Niagara, Honeywell Optimizer/Spyder/CIPer, Johnson Controls Facility Explorer/CCT and Distech EC-gfxProgram.
 
-Home offers a clear Start here route into the existing study sequence and welcomes free-resource suggestions or broken-link reports by email. Original social sharing artwork accompanies the public link; no social scripts are loaded.
+Home keeps a compact beginners-only link to six BAS foundation blocks from Smart Buildings Academy, followed by optional Niagara 4 orientation from Broudy Precision. Experienced users can browse the Nav tree or use the top name search. The existing practical projects live under Programming paths. The site welcomes free-resource suggestions or broken-link reports by email. Original social sharing artwork accompanies the public link; no social scripts are loaded.
 
 The Controls Exchange uses an original red, charcoal and white learning workbench with flat toolbars, quiet selection and clear reading space. Home belongs under Station above Config. Branch +/− controls only expand/collapse; section labels navigate, and Ctrl/Cmd-click opens independent workspaces. Drag the sidebar edge to widen both panes or the horizontal divider to adjust tree/palette height. Subfolders and advanced filters expand on demand. The Learning palette owns recommended creators, news, release watch, downloads and personal study tools. Creator links, study progress and review history appear at the bottom of Home.
 
