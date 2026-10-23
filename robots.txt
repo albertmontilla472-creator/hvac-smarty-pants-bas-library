@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://albertmontilla472-creator.github.io/the-controls-exchange/sitemap.xml
